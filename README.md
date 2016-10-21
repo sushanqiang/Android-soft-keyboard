@@ -1,5 +1,5 @@
 # Android-soft-keyboard
-daqiang
+
 在开发中使用安卓软件盘时，会遇到很多问题，比如：当点击编辑edittext时，软键盘出来，要么会把布局往上顶，或者覆盖等等，
 
 
